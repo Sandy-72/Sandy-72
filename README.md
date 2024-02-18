@@ -28,19 +28,16 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/sandipa_chakrborty/
 [linkedin]: https://linkedin.com/in/sandipa-chakraborty-31238724/
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on AI/ML Algorithms
+- 🌱 I’m currently learning Tableau 
+- 👯 I’m looking to collaborate on Interesting Ideas
+- 🤔 I’m looking for help with my recipes, passwords
+- 💬 Ask me about anything
+- 📫 How to reach me: Email: c.sandipa@gmail.com
+- 😄 Pronouns: She|Her
+- ⚡ Fun fact: Github is great!
 -->
