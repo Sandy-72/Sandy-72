@@ -14,7 +14,7 @@ mining, linear regression, logistic regression, clustering algorithms. End to en
 including gathering data, preparation of input data, architecture design of analytical workflows, implementation using various tools,
 integration with various platforms, visualization and web application framework using softwares like Python, SQL, Java, React.
 
-<h4>Senior Scientist at R&DE(Engrs) (Aug 1996-Dec 2019)</h4>
+<h4>Senior Scientist (Aug 1996-Dec 2019)</h4>
 As designer, innovator, project leader, I have conceptualised projects from inception which involved modelling and simulation, design
 processes, framing of technical specifications, feasibility analysis, developing proof of concept, prototype development activities, and
 productization of solutions
