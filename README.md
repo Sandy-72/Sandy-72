@@ -42,7 +42,7 @@ Course Contents:Machine learning, datamining, and statistical pattern recognitio
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Next Word Prediction Algorithm using Machine Learning](https://github.com/Sandy-72/ML_NextWordPrediction/blob/main/README.md)
  
 - <b> Excel Macros </b>
   - [Excel Macros in VB].(https://github.com/Sandy-72/ExcelMacros/blob/main/README.md)
