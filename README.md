@@ -41,6 +41,12 @@ Course on machine learning, datamining, and statistical pattern recognition
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
+- <b> Excel Macros </b>
+  - [Excel Macros in VB].(https://github.com/Sandy-72/ExcelMacros/blob/main/README.md)
+ 
+- <b> Mobile Application Development </b>
+  - [Mobile Application Development]
 
 <h2>📺 Popular YouTube Videos</h2>
 
