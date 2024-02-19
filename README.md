@@ -20,14 +20,14 @@ processes, framing of technical specifications, feasibility analysis, developing
 productization of solutions
 
 <h3>EDUCATION</h3>
-<h4>Masters in Electrical Engineering
+<h4>Masters in Electrical Engineering  
  Minor in Control Systems • Jadavpur University • Kolkata, India •   1996   •    83.5%  </h4>
 <h4> Bachelor of Electrical Engineering * Jadavpur University • Kolkata, India •   1994   •   78%   </h4>
 
 <h3>CERTIFICATIONS</h3>
-Machine Learning course from Stanford University
-Coursera • 2021
-Course on machine learning, datamining, and statistical pattern recognition
+Machine Learning course from Stanford University  
+Coursera • 2021  
+Course on machine learning, datamining, and statistical pattern recognition  
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -55,23 +55,26 @@ Course on machine learning, datamining, and statistical pattern recognition
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/sandipa_chakrborty/
-[linkedin]: https://linkedin.com/in/sandipa-chakraborty-31238724/
+  
+[instagram]: https://www.instagram.com/sandipa_chakrborty/  
+[linkedin]: https://linkedin.com/in/sandipa-chakraborty-31238724/  
 
 -
 -
 
-<h2>SKILLS</h2>
--Front End: HTML, CSS, Javascript, React
+<h2>SKILLS</h2>   
 
--Back End: MongoDB, SQL
+-Front End: HTML, CSS, Javascript, React  
 
--Programming Languages: C, C++, PHP, Python
+-Back End: MongoDB, SQL   
 
--Modelling and Simulation Software: Matlab, Simulink & Toolboxes, ITI-SIM, Bondgraph
+-Programming Languages: C, C++, PHP, Python   
 
--Tools: Git, Github, Postman
+-Modelling and Simulation Software: Matlab, Simulink & Toolboxes, ITI-SIM, Bondgraph  
+
+-Tools: Git, Github, Postman  
+
+
 
   
 - 🔭 I’m currently working on AI/ML Algorithms
