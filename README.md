@@ -25,9 +25,11 @@ productization of solutions
 <h4> Bachelor of Electrical Engineering * Jadavpur University • Kolkata, India •   1994   •   78%   </h4>
 
 <h3>CERTIFICATIONS</h3>
-Machine Learning course from Stanford University  
-Coursera • 2021  
-Course on machine learning, datamining, and statistical pattern recognition  
+Machine Learning from Stanford University        
+
+Coursera • 2021    
+Course Contents:Machine learning, datamining, and statistical pattern recognition   
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -47,6 +49,10 @@ Course on machine learning, datamining, and statistical pattern recognition
  
 - <b> Mobile Application Development </b>
   - [Mobile Application Development]
+ 
+- <b> Game Development </b>
+  - [Game Development].(https://github.com/Sandy-72/Game/blob/main/README.md)
+    
 
 <h2>📺 Popular YouTube Videos</h2>
 
