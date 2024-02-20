@@ -95,7 +95,7 @@ Course Contents:Machine learning, datamining, and statistical pattern recognitio
 - 👯 I’m looking to collaborate on Interesting Ideas
 - 🤔 I’m looking for help with my recipes, passwords
 - 💬 Ask me about anything
-- 📫 How to reach me: Email: c.sandipa@gmail.com
+- 📫 How to reach me: Email: sandipa_c@yahoo.com
 - 😄 Pronouns: She|Her
 - ⚡ Fun fact: Github is great!
 -->
