@@ -2,10 +2,10 @@
 
 <h3>SUMMARY</h3>
 Worked on a range of customized products / solutions for clients; skills to interface with clients, suggest viable solutions.
-Expertise in directing & ensuring compliance, collaborating with academia and industry to interface and expedite problems. Frame technical
+Expertise in directing & ensuring compliance, collaborating with different stakeholders to interface and expedite problems. Frame technical
 specifications to suit safety and quality standards, functional requirements, best practices, policies and procedures; proven success in
 providing technology support. Experienced in contributing actively throughout the development phase by tracking technical issues and
-solving problems. Proficiency in data analysis, data visuaalisation, mathematics /probability, and statistical analysis.
+solving problems. Proficiency in data analysis, data visualisation, mathematics /probability, and statistical analysis.
 
 <h3>EXPERIENCE</h3>
 <h4>Freelancer (Jan 2020-Present)</h4>
