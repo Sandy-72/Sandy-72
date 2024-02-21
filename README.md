@@ -49,7 +49,7 @@ Course Contents:Machine learning, datamining, and statistical pattern recognitio
   - [Excel Macros in VB].(https://github.com/Sandy-72/ExcelMacros/blob/main/README.md)
  
 - <b> Mobile Application Development </b>
-  - [Mobile Application Development]
+  - [Mobile Application Development].(https://github.com/Sandy-72/LocationMap/edit/master/README.md)
  
 - <b> Game Development </b>
   - [Game Development].(https://github.com/Sandy-72/Game/blob/main/README.md)
