@@ -42,7 +42,7 @@ Course Contents:Machine learning, datamining, and statistical pattern recognitio
   
 
 - <b>Python</b>
-  - [Next Word Prediction Algorithm using Machine Learning](https://github.com/Sandy-72/ML_NextWordPrediction/blob/main/README.md)
+  - [Next Word Prediction Algorithm using Tensorflow].(https://github.com/Sandy-72/ML_NextWordPrediction/blob/main/README.md)
  
 - <b> Excel Macros </b>
   - [Excel Macros in VB].(https://github.com/Sandy-72/ExcelMacros/blob/main/README.md)
@@ -51,7 +51,7 @@ Course Contents:Machine learning, datamining, and statistical pattern recognitio
   - [Mobile Application Development].(https://github.com/Sandy-72/LocationMap/edit/master/README.md)
  
 - <b> Game Development </b>
-  - [Game Development].(https://github.com/Sandy-72/Game/blob/main/README.md)
+  - [Tic Tac Toe Game Development].(https://github.com/Sandy-72/Game/blob/main/README.md)
     
 
 <h2>📺 Popular YouTube Videos</h2>
