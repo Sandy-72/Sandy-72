@@ -86,7 +86,9 @@ Course Contents:Machine learning, datamining, and statistical pattern recognitio
 
 -Tools: Git, Github, Postman  
 
+<h2>GITHUB README STREAK STATS </h2>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sandy-72)](https://git.io/streak-stats)
 
   
 - 🔭 I’m currently working on AI/ML Algorithms
