@@ -97,6 +97,17 @@ Course Contents:Machine learning, datamining, and statistical pattern recognitio
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sandy-72&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+## List of Paper Publications 
+1. ‘Modelling and Simulation of Closed Loop Speed Control of a Hydrostatic Drive System’ in Proceedings of the Technical Seminar held by Fluid Power Society of India ,11-14th May 2006 at Bangalore.
+2. Design and Simulation of Electro-Hydraulic Control System for Mobile Autonomous Launcher (Brahmos) in National Seminar on Integration, Evaluation and Testing of Missiles and Launch Vehicles , NITMIL 2007 held on 16-17th Nov 2007 at RCI, Hyderabad.
+3. Design of Hydraulically Operated Stanchion Operated by Relay Logic Control System in International Conference of Fluid Power Society of India Held in Bangalore on 4-7th December 2007.
+4. Hardware in Loop Simulation for Braking of a High Speed, Heavy Load using Servo Hydraulic Test Setup System in International Conference of Fluid Power Society of India Held in Bangalore in December 2008.
+5. Dynamic Modelling and Simulation of Braking of a Heavy Load using Hydraulically actuated Multi disc friction braking system, Paper presentation in SAE Mobility Congress held in Chennai on 13th-15 Dec 2009
+6. ‘Mechatronic Modelling and Simulation for a Crane Tip Controller’ in Proceedings of the 5th International Conference on Product Lifecycle Modelling, Simulation & Synthesis held at BITS Pilani, Hyderabad Campus from 15th-17th Dec 2015
+7. ‘Saving Time by Tip Control & Automation of Knuckle and Boom Hydraulic Crane’ published in International Journal of Hybrid Information Technology, Vol 9, No 4 (2016), pp235-254, . SERSC Publications.
+8. ‘Hardware in Loop Simulation for Aircraft Arrester Gear System’, published in proceedings of INDICON-2016, 13th International IEEE India Conference held in IISc Bangalore on 16th -18th Dec 2016.
  
 - 🔭 I’m currently working on AI/ML Algorithms
 - 🌱 I’m currently learning Tableau 
