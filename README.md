@@ -39,7 +39,7 @@ Course Contents:Machine learning, datamining, and statistical pattern recognitio
     
 - <b>Visual Basic, C# (.NET Desktop Applications)</b>
   - [Calender App].(https://github.com/Sandy-72/CalenderApp/blob/main/README.md)
-  
+  - [3 Letter Words].(https://github.com/Sandy-72/3LetterWords/main/README.md)
 
 - <b>Python</b>
   - [Next Word Prediction Algorithm using Tensorflow].(https://github.com/Sandy-72/ML_NextWordPrediction/blob/main/README.md)
