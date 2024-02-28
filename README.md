@@ -39,6 +39,7 @@ Course Contents:Machine learning, datamining, and statistical pattern recognitio
     
 - <b>Visual Basic, C# (.NET Desktop Applications)</b>
   - [Calender App].(https://github.com/Sandy-72/CalenderApp/blob/main/README.md)
+  - [Minesweeper Game].(https://github.com/Sandy-72/MyMinesweeper/edit/main/README.md)
   - [3 Letter Words].(https://github.com/Sandy-72/3LetterWords/edit/master/README.md)
 
 - <b>Python</b>
