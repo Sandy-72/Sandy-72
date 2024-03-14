@@ -81,7 +81,7 @@ Course Contents:Machine learning, datamining, and statistical pattern recognitio
 
 -Back End: MongoDB, SQL   
 
--Programming Languages: C, C++, PHP, Python   
+-Programming Languages: C, C++, PHP, Python, Visual Basic   
 
 -Modelling and Simulation Software: Matlab, Simulink & Toolboxes, ITI-SIM, Bondgraph  
 
