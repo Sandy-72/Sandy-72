@@ -33,8 +33,9 @@ Course Contents:Machine learning, datamining, and statistical pattern recognitio
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Full Stack Web App (Bootstrap, React, NodeJS, and Machine Learning Components)</b>
   - [Weather App in HTML].(https://github.com/Sandy-72/WeatherApp/edit/main/README.md)
+  - [ConFusion Restaurant Website]
   - [Portfolio Website].(https://github.com/Sandy-72/Portfolio/blob/main/README.md)
     
 - <b>Visual Basic, C# (.NET Desktop Applications)</b>
