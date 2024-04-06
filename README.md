@@ -25,7 +25,9 @@ productization of solutions
 <h4> Bachelor of Electrical Engineering * Jadavpur University • Kolkata, India •   1994   •   78%   </h4>
 
 <h3>CERTIFICATIONS</h3>
-Machine Learning from Stanford University        
+Machine Learning from Stanford University   
+Introduction to SQL 
+Introduction to Big Data Analytics
 
 Coursera • 2021    
 Course Contents:Machine learning, datamining, and statistical pattern recognition   
