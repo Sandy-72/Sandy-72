@@ -121,5 +121,5 @@ productization of solutions
 - 💬 Ask me about anything
 - 📫 How to reach me: Email: sandipa_c@yahoo.com
 - 😄 Pronouns: She|Her
-- ⚡ Fun fact: Github is great!
+- ⚡ Fun fact: Github is great!Learning is fun
 -->
