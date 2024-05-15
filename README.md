@@ -40,6 +40,8 @@ productization of solutions
   - [Weather App in HTML].(https://github.com/Sandy-72/WeatherApp/edit/main/README.md)
   - [ConFusion Restaurant Website].(https://github.com/Sandy-72/Git_bootstrap/edit/master/README.md)
   - [Portfolio Website].(https://github.com/Sandy-72/Portfolio/blob/main/README.md)
+  - [MERN Notes Project-Frontend].(https://hello-w8qx.onrender.com/)
+  - [MERN Notes Project-Backend].(https://siliconsand-api.onrender.com)
     
 - <b>Visual Basic, C# (.NET Desktop Applications)</b>
   - [Calender App].(https://github.com/Sandy-72/CalenderApp/blob/main/README.md)
