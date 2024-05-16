@@ -5,7 +5,7 @@ Worked on a range of customized products / solutions for clients; skills to inte
 Expertise in directing & ensuring compliance, collaborating with different stakeholders to interface and expedite problems. Frame technical
 specifications to suit safety and quality standards, functional requirements, best practices, policies and procedures; proven success in
 providing technology support. Experienced in contributing actively throughout the development phase by tracking technical issues and
-solving problems. Proficiency in data analysis, data visualisation, mathematics /probability, and statistical analysis.
+solving problems. Proficiency in software development, software design, data analysis, data visualisation, mathematics /probability, and statistical analysis.
 
 <h3>EXPERIENCE</h3>
 <h4>Freelancer (Jan 2020-Present)</h4>
@@ -68,14 +68,12 @@ productization of solutions
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SandipaC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SandipaC | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
   
 [instagram]: https://www.instagram.com/sandipa_chakrborty/  
 [linkedin]: https://linkedin.com/in/sandipa-chakraborty-31238724/  
