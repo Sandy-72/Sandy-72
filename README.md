@@ -74,6 +74,7 @@ productization of solutions
 
 [<img align="left" alt="SandipaC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SandipaC | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SandipaC | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
   
 [instagram]: https://www.instagram.com/sandipa_chakrborty/  
 [linkedin]: https://linkedin.com/in/sandipa-chakraborty-31238724/  
