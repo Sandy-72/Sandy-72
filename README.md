@@ -77,6 +77,7 @@ productization of solutions
   
 [instagram]: https://www.instagram.com/sandipa_chakrborty/  
 [linkedin]: https://linkedin.com/in/sandipa-chakraborty-31238724/  
+[twitter]:
 
 -
 -
