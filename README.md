@@ -83,7 +83,7 @@ productization of solutions
 -
 -
 
-<h2>SKILLS</h2>   
+<h2> SKILLS </h2>   
 
 -Front End: HTML, CSS, Javascript, React  
 
