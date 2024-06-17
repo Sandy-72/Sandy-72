@@ -1,7 +1,7 @@
 <h1>Hi, I'm Sandipa! <br/><a href="https://github.com/Sandy-72">Programmer</a>, <a href="https://www.linkedin.com/in/sandipa-chakraborty-31238724/">Consultant</a></h1>
 
 <h3>SUMMARY</h3>
-Worked on a range of customized products / solutions for clients; skills to interface with clients, suggest viable solutions.
+Professional in Software Development, Machine Learning, Web Application Development, Simulation & Modelling with a proven track record in leading cross-functional teams, managing projects, and driving innovative solutions.Worked on a range of customized products / solutions for clients; skills to interface with clients, suggest viable solutions.
 Expertise in directing & ensuring compliance, collaborating with different stakeholders to interface and expedite problems. Frame technical
 specifications to suit safety and quality standards, functional requirements, best practices, policies and procedures; proven success in
 providing technology support. Experienced in contributing actively throughout the development phase by tracking technical issues and
