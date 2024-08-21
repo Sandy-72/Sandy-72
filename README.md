@@ -7,7 +7,7 @@ specifications to suit safety and quality standards, functional requirements, be
 
 <h3>EXPERIENCE</h3>
 <h4>Freelancer (Jan 2020-Present)</h4>
-Working in analytics, statistical modeling and machine learning ,deep learning and AI techniques (decision tree, random forest, data
+Working in data analytics, statistical modeling and machine learning ,deep learning and AI techniques (decision tree, random forest, data
 mining, linear regression, logistic regression, clustering algorithms. End to end implementation of analytics IP and solution building
 including gathering data, preparation of input data, architecture design of analytical workflows, implementation using various tools,
 integration with various platforms, visualization and web application framework using softwares like Python, SQL, Java, React.
