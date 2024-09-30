@@ -1,7 +1,7 @@
 <h1>Hi, My name is Sandipa! <br/><a href="https://github.com/Sandy-72">Programmer</a>, <a href="https://www.linkedin.com/in/sandipa-chakraborty-31238724/">Consultant</a></h1>
 
 <h3>SUMMARY</h3>
-Professional in Software Development, Machine Learning, Web Application Development, Simulation & Modelling with a proven track record in leading cross-functional teams, managing projects, and driving innovative solutions.Worked on a range of customized products / solutions for clients; skills to interface with clients, suggest viable solutions.
+Professional in Software Development, Data Analysis, Machine Learning, Web Application Development, Control System Design, Simulation & Modelling with a proven track record in leading cross-functional teams, managing projects, and driving innovative solutions.Worked on a range of customized products / solutions for clients; skills to interface with clients, suggest viable solutions.
 Expertise in machine learning models, website and web application development, collaborating with different stakeholders to interface and expedite problems. Frame technical
 specifications to suit safety and quality standards, functional requirements, best practices, policies and procedures. Experienced in contributing actively throughout the development phase by tracking technical issues and solving problems. Proficiency in software development, software design, data analysis, data visualisation, mathematics /probability, simulation and statistical analysis.
 
