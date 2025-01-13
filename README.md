@@ -92,7 +92,7 @@ productization of solutions
 
 -Programming Languages: C, C++, PHP, Python, Visual Basic   
 
--Modelling and Simulation Software: Matlab, Simulink & Toolboxes, ITI-SIM, Bondgraph  
+-Modelling and Simulation Software: Matlab, Simulink & Toolboxes, Modelica, ITI-SIM, Bondgraph  
 
 -Tools: Git, Github, Postman  
 
