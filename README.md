@@ -58,6 +58,9 @@ productization of solutions
  
 - <b> Game Development </b>
   - [Tic Tac Toe Game Development].(https://github.com/Sandy-72/Game/blob/main/README.md)
+  - [Maze Game]
+  - [Cards Memory Game]
+  - [Snake Game]
  
  - <b> PHP, HTML, CSS and MySQL </b>
   - [Food Order Website].(https://github.com/Sandy-72/Food-Order/blob/main/README.md)
