@@ -58,7 +58,7 @@ productization of solutions
  
 - <b> Game Development </b>
   - [Tic Tac Toe Game Development].(https://github.com/Sandy-72/Game/blob/main/README.md)
-  - [Maze Game].
+  - [Maze Game].(https://github.com/Sandy-72/Maze-game/blob/main/README.md)
   - [Cards Memory Game].(https://github.com/Sandy-72/Card-Memory-Game/blob/main/README.md)
   - [Snake Game].
  
