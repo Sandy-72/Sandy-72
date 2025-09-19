@@ -49,6 +49,7 @@ productization of solutions
 
 - <b>Python</b>
   - [Next Word Prediction Algorithm using Tensorflow].(https://github.com/Sandy-72/ML_NextWordPrediction/blob/main/README.md)
+  - [Object Counting and Detection using Ultralytics-YOLO].(https://github.com/Sandy-72/Hanger_Detection_Counting/blob/main/README.md)
  
 - <b> Excel Macros </b>
   - [Excel Macros in VB].(https://github.com/Sandy-72/ExcelMacros/blob/main/README.md)
