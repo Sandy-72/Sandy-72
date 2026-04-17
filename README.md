@@ -47,7 +47,7 @@ productization of solutions
   - [Minesweeper Game].(https://github.com/Sandy-72/MyMinesweeper/edit/main/README.md)
   - [3 Letter Words].(https://github.com/Sandy-72/3LetterWords/edit/master/README.md)
 
-- <b>Python</b>
+- <b>Machine Learning, Computer Vision, Python</b>
   - [Next Word Prediction Algorithm using Tensorflow].(https://github.com/Sandy-72/ML_NextWordPrediction/blob/main/README.md)
   - [Object Counting and Detection using Ultralytics-YOLO].(https://github.com/Sandy-72/Hanger_Detection_Counting/blob/main/README.md)
  
