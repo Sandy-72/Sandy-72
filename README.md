@@ -128,7 +128,7 @@ productization of solutions
 - 👯 I’m looking to collaborate on Interesting Ideas
 - 🤔 I’m looking for help with my recipes, passwords
 - 💬 Ask me about anything
-- 📫 How to reach me: Email: sandipa_c@yahoo.com
+- 📫 How to reach me: Email: c.sandipa@gmail.com
 - 😄 Pronouns: She|Her
 - ⚡ Fun fact: Github is great!Learning is fun
 -->
